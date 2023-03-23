@@ -4,7 +4,7 @@ setwd("~/Dropbox/2018WorkingFiles/Marc2018/NutNet/Catford meeting/COV-ab_SEM")
 source("COV.AB.SES.R")
 
 
-##nutnet data
+##nutnet data - need full cover file (too big to upload to githhub)
 nut.dat<-read.csv("~/Dropbox/2018WorkingFiles/Marc2018/NutNet/Catford meeting/COV-ab_SEM/full-cover-2022-11-15.csv")
 
 nut.con<-nut.dat[nut.dat$trt=="Control",] #just control plots
