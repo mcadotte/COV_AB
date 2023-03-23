@@ -2,7 +2,7 @@ library(picante)
 
 ####covariance-abundance SEMs
 
-#time (rows) by species (cols) matrix
+#year(rows) by species (cols) matrix
 
 #function calculating SES covariance and SES aboundance trend (lm coef), 
 #X is time by species matrix
