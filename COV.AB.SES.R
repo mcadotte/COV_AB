@@ -1,5 +1,7 @@
 library(picante)
 
+##open git. 
+
 ####covariance-abundance SEMs
 
 #year(rows) by species (cols) matrix
